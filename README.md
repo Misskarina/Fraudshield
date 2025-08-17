@@ -26,4 +26,18 @@ FraudShield is a full-stack web application that detects suspicious transactions
 ---
 
 ## 📁 Folder Structure
+- fraudshield/
+- │
+- ├── backend/
+- │ ├── controller/
+- │ ├── model/
+- │ ├── service/
+- │ ├── util/
+- │ └── resources/
+- │ └── application.properties
+- │
+- └── frontend/
+- ├── login.html
+- └── transaction.html
+  ---
 
