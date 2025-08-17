@@ -41,3 +41,17 @@ FraudShield is a full-stack web application that detects suspicious transactions
 - └── transaction.html
  ---
 
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+- Java 17 
+- Maven 
+- Any IDE (e.g., Eclipse)
+- Browser (for frontend)
+
+---
+
+
+
