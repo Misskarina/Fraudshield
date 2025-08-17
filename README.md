@@ -54,11 +54,11 @@ FraudShield is a full-stack web application that detects suspicious transactions
 ---
 🌐 Frontend Setup
 
-Open frontend/login.html and frontend/transaction.html in browser.
+- Open frontend/login.html and frontend/transaction.html in browser.
 
-Login is mocked.
+- Login is mocked.
 
-Enter transaction details → result will show fraud alert if applicable.
+- Enter transaction details → result will show fraud alert if applicable.
 
 
 
