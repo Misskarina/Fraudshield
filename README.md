@@ -33,7 +33,7 @@ FraudShield is a full-stack web application that detects suspicious transactions
 - │ ├── model/
 - │ ├── service/
 - │ ├── util/
-- │ └── resources/
+- │ └── resources
 - │ └── application.properties
 - │
 - └── frontend/
