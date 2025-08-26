@@ -20,7 +20,7 @@ FraudShield is a full-stack web application that detects suspicious transactions
 |---------------|--------------------------|
 | Frontend      | HTML, CSS, JavaScript    |
 | Backend       | Java (Spring Boot)       |
-| Database      | In-memory (List)         |
+| Database      | MySql       |
 | Communication | RESTful API (JSON)       |
 
 ---
