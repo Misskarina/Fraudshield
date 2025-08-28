@@ -1,5 +1,5 @@
 # Fraudshield
-# 🚨 FraudShield – Web-based Fraud Detection System
+## 🚨 FraudShield – Web-based Fraud Detection System
 
 FraudShield is a full-stack web application that detects suspicious transactions in real-time. It is built using **Java (Spring Boot)** for the backend and **HTML, CSS, JavaScript** for the frontend.
 
