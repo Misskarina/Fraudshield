@@ -10,8 +10,6 @@ FraudShield is a full-stack web application that detects suspicious transactions
 - 💳 User transaction form
 - 🔍 Real-time fraud detection using rule-based logic
 - 📊 Dashboard to alert about suspicious activities
-- 🧠 Easy-to-extend logic for ML or pattern-based fraud detection
-
 ---
 
 ## 🛠️ Tech Stack
